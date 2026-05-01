@@ -14,7 +14,7 @@
 ```
 ╔══════════════════════════════════════════════╗
 ║        File Integrity Monitor  v2.0          ║
-║        github.com/ankurdas-cyberphantom/fim          ║
+║        github.com/ankurdas-cyberphantom/fim  ║
 ╚══════════════════════════════════════════════╝
 
 [*] Checking 3 file(s)...
